@@ -6,6 +6,7 @@ module.exports = {
       fontFamily: {
         inter: ['Inter'],
         cormorant: ['Cormorant Garamond'],
+        caudex: ['Caudex']
       },
       sizing: {
         '68': '17rem'
@@ -30,7 +31,8 @@ module.exports = {
         '13xl': '13rem'
       },
       textColor: {
-        'primary': '#6B6761'
+        'primary': '#6B6761',
+        'primarlight': '#2E2B26'
       },
       minWidth: {
         '0': '0',

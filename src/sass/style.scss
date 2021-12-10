@@ -42,3 +42,25 @@ footer {
 //     --max-size: 76;
 //     font-size: var(--responsive);
 // }
+
+
+.active {
+    font-weight: 700;
+}
+
+.faq-box {
+    transition: .5s ease;
+    -webkit-transition: .5s ease;
+    -moz-transition: .5s ease;
+    -ms-transition: .5s ease;
+    -o-transition: .5s ease;
+}
+
+.faq-box:hover {
+    height: 20vh;
+    transition: .5s ease;
+    -webkit-transition: .5s ease;
+    -moz-transition: .5s ease;
+    -ms-transition: .5s ease;
+    -o-transition: .5s ease;
+}

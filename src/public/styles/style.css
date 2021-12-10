@@ -22412,6 +22412,10 @@ video {
   font-family: Cormorant Garamond;
 }
 
+.font-caudex {
+  font-family: Caudex;
+}
+
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
@@ -23123,6 +23127,11 @@ video {
   color: rgba(107, 103, 97, var(--tw-text-opacity));
 }
 
+.text-primarlight {
+  --tw-text-opacity: 1;
+  color: rgba(46, 43, 38, var(--tw-text-opacity));
+}
+
 .group:hover .group-hover\:text-transparent {
   color: transparent;
 }
@@ -23544,6 +23553,11 @@ video {
 .group:hover .group-hover\:text-primary {
   --tw-text-opacity: 1;
   color: rgba(107, 103, 97, var(--tw-text-opacity));
+}
+
+.group:hover .group-hover\:text-primarlight {
+  --tw-text-opacity: 1;
+  color: rgba(46, 43, 38, var(--tw-text-opacity));
 }
 
 .focus-within\:text-transparent:focus-within {
@@ -23969,6 +23983,11 @@ video {
   color: rgba(107, 103, 97, var(--tw-text-opacity));
 }
 
+.focus-within\:text-primarlight:focus-within {
+  --tw-text-opacity: 1;
+  color: rgba(46, 43, 38, var(--tw-text-opacity));
+}
+
 .hover\:text-transparent:hover {
   color: transparent;
 }
@@ -24392,6 +24411,11 @@ video {
   color: rgba(107, 103, 97, var(--tw-text-opacity));
 }
 
+.hover\:text-primarlight:hover {
+  --tw-text-opacity: 1;
+  color: rgba(46, 43, 38, var(--tw-text-opacity));
+}
+
 .focus\:text-transparent:focus {
   color: transparent;
 }
@@ -24813,6 +24837,11 @@ video {
 .focus\:text-primary:focus {
   --tw-text-opacity: 1;
   color: rgba(107, 103, 97, var(--tw-text-opacity));
+}
+
+.focus\:text-primarlight:focus {
+  --tw-text-opacity: 1;
+  color: rgba(46, 43, 38, var(--tw-text-opacity));
 }
 
 .text-opacity-0 {
@@ -53771,6 +53800,10 @@ video {
     font-family: Cormorant Garamond;
   }
 
+  .sm\:font-caudex {
+    font-family: Caudex;
+  }
+
   .sm\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -54482,6 +54515,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .sm\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .group:hover .sm\:group-hover\:text-transparent {
     color: transparent;
   }
@@ -54903,6 +54941,11 @@ video {
   .group:hover .sm\:group-hover\:text-primary {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .group:hover .sm\:group-hover\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .sm\:focus-within\:text-transparent:focus-within {
@@ -55328,6 +55371,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .sm\:focus-within\:text-primarlight:focus-within {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .sm\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -55751,6 +55799,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .sm\:hover\:text-primarlight:hover {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .sm\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -56172,6 +56225,11 @@ video {
   .sm\:focus\:text-primary:focus {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .sm\:focus\:text-primarlight:focus {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .sm\:text-opacity-0 {
@@ -85118,6 +85176,10 @@ video {
     font-family: Cormorant Garamond;
   }
 
+  .md\:font-caudex {
+    font-family: Caudex;
+  }
+
   .md\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -85829,6 +85891,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .md\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .group:hover .md\:group-hover\:text-transparent {
     color: transparent;
   }
@@ -86250,6 +86317,11 @@ video {
   .group:hover .md\:group-hover\:text-primary {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .group:hover .md\:group-hover\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .md\:focus-within\:text-transparent:focus-within {
@@ -86675,6 +86747,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .md\:focus-within\:text-primarlight:focus-within {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .md\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -87098,6 +87175,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .md\:hover\:text-primarlight:hover {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .md\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -87519,6 +87601,11 @@ video {
   .md\:focus\:text-primary:focus {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .md\:focus\:text-primarlight:focus {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .md\:text-opacity-0 {
@@ -116465,6 +116552,10 @@ video {
     font-family: Cormorant Garamond;
   }
 
+  .lg\:font-caudex {
+    font-family: Caudex;
+  }
+
   .lg\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -117176,6 +117267,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .lg\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .group:hover .lg\:group-hover\:text-transparent {
     color: transparent;
   }
@@ -117597,6 +117693,11 @@ video {
   .group:hover .lg\:group-hover\:text-primary {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .group:hover .lg\:group-hover\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .lg\:focus-within\:text-transparent:focus-within {
@@ -118022,6 +118123,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .lg\:focus-within\:text-primarlight:focus-within {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .lg\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -118445,6 +118551,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .lg\:hover\:text-primarlight:hover {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .lg\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -118866,6 +118977,11 @@ video {
   .lg\:focus\:text-primary:focus {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .lg\:focus\:text-primarlight:focus {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .lg\:text-opacity-0 {
@@ -147812,6 +147928,10 @@ video {
     font-family: Cormorant Garamond;
   }
 
+  .xl\:font-caudex {
+    font-family: Caudex;
+  }
+
   .xl\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -148523,6 +148643,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .xl\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .group:hover .xl\:group-hover\:text-transparent {
     color: transparent;
   }
@@ -148944,6 +149069,11 @@ video {
   .group:hover .xl\:group-hover\:text-primary {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .group:hover .xl\:group-hover\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .xl\:focus-within\:text-transparent:focus-within {
@@ -149369,6 +149499,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .xl\:focus-within\:text-primarlight:focus-within {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .xl\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -149792,6 +149927,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .xl\:hover\:text-primarlight:hover {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .xl\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -150213,6 +150353,11 @@ video {
   .xl\:focus\:text-primary:focus {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .xl\:focus\:text-primarlight:focus {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .xl\:text-opacity-0 {
@@ -179159,6 +179304,10 @@ video {
     font-family: Cormorant Garamond;
   }
 
+  .\32xl\:font-caudex {
+    font-family: Caudex;
+  }
+
   .\32xl\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -179870,6 +180019,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .\32xl\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .group:hover .\32xl\:group-hover\:text-transparent {
     color: transparent;
   }
@@ -180291,6 +180445,11 @@ video {
   .group:hover .\32xl\:group-hover\:text-primary {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .group:hover .\32xl\:group-hover\:text-primarlight {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .\32xl\:focus-within\:text-transparent:focus-within {
@@ -180716,6 +180875,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .\32xl\:focus-within\:text-primarlight:focus-within {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .\32xl\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -181139,6 +181303,11 @@ video {
     color: rgba(107, 103, 97, var(--tw-text-opacity));
   }
 
+  .\32xl\:hover\:text-primarlight:hover {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
+  }
+
   .\32xl\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -181560,6 +181729,11 @@ video {
   .\32xl\:focus\:text-primary:focus {
     --tw-text-opacity: 1;
     color: rgba(107, 103, 97, var(--tw-text-opacity));
+  }
+
+  .\32xl\:focus\:text-primarlight:focus {
+    --tw-text-opacity: 1;
+    color: rgba(46, 43, 38, var(--tw-text-opacity));
   }
 
   .\32xl\:text-opacity-0 {
