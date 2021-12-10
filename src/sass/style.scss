@@ -1,9 +1,27 @@
+* {
+    box-sizing: border-box;
+    --responsive: calc(var(--min-size)*0.06em + (var(--max-size) - var(--min-size))*(0.12821vw - 0.53846px));
+}
+
 .hero-container {
     background-image: url('../../assets/images/Hero Bg.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
     // background-position-y: 20px;
+}
+
+.second .hero-container {
+    background-image: url('../../assets/images/Hero Bg 2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    // background-position-y: 20px;
+}
+
+.package {
+    background-position: right;
+    background-position-y: 40px;
 }
 
 footer {
@@ -18,3 +36,9 @@ footer {
         background-color:  #E9E9E9;
     }
 }
+
+// h1 {
+//     --min-size: 34;
+//     --max-size: 76;
+//     font-size: var(--responsive);
+// }

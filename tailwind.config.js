@@ -7,6 +7,9 @@ module.exports = {
         inter: ['Inter'],
         cormorant: ['Cormorant Garamond'],
       },
+      sizing: {
+        '68': '17rem'
+      },
       fontSize: {
         'tiny': '.6rem',
         'lg3xl': '2rem',
@@ -25,6 +28,25 @@ module.exports = {
         '11xl': '10rem',
         '12xl': '12rem',
         '13xl': '13rem'
+      },
+      textColor: {
+        'primary': '#6B6761'
+      },
+      minWidth: {
+        '0': '0',
+        '1': '10%',
+        '2': '20%',
+        '1/4': '25%',
+        '3': '30%',
+        '1/3': '33%',
+        '4': '40%',
+        '1/2': '50%',
+        '6': '60%',
+        '7': '70%',
+        '3/4': '75%',
+        '8': '80%',
+        '9': '90%',
+        'full': '100%',
       }
     },
   },
