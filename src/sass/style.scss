@@ -64,3 +64,25 @@ footer {
     -ms-transition: .5s ease;
     -o-transition: .5s ease;
 }
+
+.faq-box:hover .bottom{
+    display: block;
+    transition: .5s ease;
+    -webkit-transition: .5s ease;
+    -moz-transition: .5s ease;
+    -ms-transition: .5s ease;
+    -o-transition: .5s ease;
+}
+
+.faq-box:hover .top svg{
+    transform: rotate(180deg);
+    transition: .5s ease;
+    -webkit-transition: .5s ease;
+    -moz-transition: .5s ease;
+    -ms-transition: .5s ease;
+    -o-transition: .5s ease;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+}
